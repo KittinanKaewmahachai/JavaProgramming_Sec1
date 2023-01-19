@@ -1,0 +1,5 @@
+Date 19/1/2023
+StudentID: 2213111483  
+Fullname: Kittinan Kaewmahachai
+AKA : Mawin
+ClassDetail: Encapsulation
