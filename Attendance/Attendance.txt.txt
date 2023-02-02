@@ -1,5 +1,5 @@
-Date 26/1/2023
+Date 2/2/2023
 StudentID: 2213111483  
 Fullname: Kittinan Kaewmahachai
 AKA : Mawin
-ClassDetail: Composition and Inheritance
+ClassDetail: Inheritance, Polymorphism
