@@ -1,5 +1,5 @@
-Date 2/9/2023
+Date 2/16/2023
 StudentID: 2213111483  
 Fullname: Kittinan Kaewmahachai
 AKA : Mawin
-ClassDetail: Abstract & Interface
+ClassDetail: Exception + File (W / R)
